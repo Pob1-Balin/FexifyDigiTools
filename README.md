@@ -17,7 +17,3 @@ A platform to provide affordable, reliable services for digital marketing and mo
 	- [] git clone <repo url>
 	- [] 
 
-<<<<<<< HEAD
-=======
-# This is a test for this branch 
->>>>>>> 7a46cce6126587d04a2b9ded5be7f4fcc0a00b8f
