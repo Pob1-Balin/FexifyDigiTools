@@ -11,9 +11,8 @@ A platform to provide affordable, reliable services for digital marketing and mo
 
 1. Install your environment (Linux environment - debian distros)
 
-	- [] sudo apt-get install python3, python3.x-venv
-	- [] mkidr "custom folder name for this project"
-	- [] cd "custom folder name for this project"
-	- [] git clone <repo url>
-	- [] 
+	- sudo apt-get install python3, python3.x-venv
+	- mkidr "custom folder name for this project"
+	- cd "custom folder name for this project"
+	- git clone <repo url>
 
